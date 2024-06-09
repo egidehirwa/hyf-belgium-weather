@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <div>Belgium weather</div>
+    <div>Belgium weather Application</div>
     </>
   )
 }
